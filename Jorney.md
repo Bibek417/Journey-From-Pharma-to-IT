@@ -1,6 +1,6 @@
 # My Journey from Pharma to IT
 
-I  in pharmacy in 2021, but after my graduation, I realized that pharmacy wasn't my true calling. So, I decided to switch to the IT field. In 2022, I completed a data science course from Upgrad, where I learned about various subjects such as SQL, Python, Excel, NumPy, Pandas, and more.
+I graduated in pharmacy in 2021, but after my graduation, I realized that pharmacy wasn't my true calling. So, I decided to switch to the IT field. In 2022, I completed a data science course from Upgrad, where I learned about various subjects such as SQL, Python, Excel, NumPy, Pandas, and more.
 
 During this time, I applied for many jobs and attended several interviews. Although I made it to the final round in some interviews, I was unable to secure a position. This made me realize that I needed to improve my aptitude and reasoning skills.
 
