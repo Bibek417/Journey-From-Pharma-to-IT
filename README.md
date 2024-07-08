@@ -5,7 +5,7 @@
 
 ## SQL Knowledge Base
 
-- [SQL Tutorial](README.md)
+- [SQL Tutorial](SQL-Proficiency/README.md)
 - ## [Project 1: SQL Database Design](sql_learnings/project1/README.md)
 - ## [Project 2: SQL Query Optimization](sql_learnings/project2/README.md)
 
