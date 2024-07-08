@@ -6,6 +6,6 @@
 ## SQL Knowledge Base
 
 - [SQL Tutorial](https://github.com/Bibek417/SQL-Proficiency/blob/main/README.md)
--  [Project 1: SQL Database Design](sql_learnings/project1/README.md)
--  [Project 2: SQL Query Optimization](sql_learnings/project2/README.md)
+-  [Project 1: RSVP MOVIE CASE STUDY]([sql_learnings/project1/README.md](https://github.com/Bibek417/SQL---RSVP-Movies-Case-Study/tree/main))
+
 
