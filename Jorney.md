@@ -6,7 +6,7 @@ During this time, I applied for many jobs and attended several interviews. Altho
 
 I began learning aptitude from YouTube sources, focusing on problems like time and work, speed-time-distance, and more. Additionally, I applied for government jobs, including state-level CGL and CHSL, and banking exams, which often included aptitude-related questions in the first round.
 
-Even though I didn't clear any of these exams, I saw significant improvement in my aptitude skills. This entire process took another year, and in 2023, I dedicated my time to preparing for government exams.
+Even though I didn't clear any of these exams, I saw significant improvement in my aptitude skills. This entire process took another year, 2023. 
 
 Although I haven't achieved employment yet, I have made substantial progress in my skills and knowledge. Now, I want to summarize all that I have learned, including my pharmacy skills, data science expertise, and aptitude problem-solving abilities, into this portfolio. This will help demonstrate to recruiters that I am a strong candidate ready to contribute effectively.
 
