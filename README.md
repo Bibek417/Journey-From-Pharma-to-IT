@@ -7,6 +7,9 @@
 
 - [SQL Tutorial](https://github.com/Bibek417/SQL-Proficiency/blob/main/README.md)
 -  [Project 1: RSVP MOVIE CASE STUDY](https://github.com/Bibek417/SQL---RSVP-Movies-Case-Study)
--  [Machine Learning]() 
+
+## Python for Data Analysis
+
+-  [Machine Learning Algorithems]() 
 
 
