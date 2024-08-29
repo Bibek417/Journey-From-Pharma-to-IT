@@ -10,6 +10,4 @@
 
 ## Python for Data Analysis
 
--  [Machine Learning Algorithems]() 
-
-
+-  [Machine Learning Algorithms]() 
